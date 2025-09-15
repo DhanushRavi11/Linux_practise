@@ -1,1 +1,2 @@
 This is 2nd txxt file
+This is used as an example
