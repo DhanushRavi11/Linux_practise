@@ -3,6 +3,12 @@ this is for test
 git advance
 3rd prac
 git advance 
+<<<<<<< HEAD
 2nd prac
 5th prac
+=======
+2nd prac 
+4th prac
+
+>>>>>>> 7bc500c78f7ffe18b36183be123557992343f9d4
 
